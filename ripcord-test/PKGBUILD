@@ -1,5 +1,5 @@
 pkgname='ripcord-test'
-pkgver=0.4.22.3
+pkgver=0.4.22.4
 pkgrel=1
 pkgdesc='Qt-based Discord and Slack client (test build)'
 arch=('x86_64')
