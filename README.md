@@ -1,3 +1,3 @@
 # PKGBUILDS
 
-Personal PKGBUILDS made for my own use.
+PKGBUILDs made for my own use.
